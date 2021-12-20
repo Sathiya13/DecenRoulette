@@ -26,9 +26,9 @@ Smart Contract acts as the treasury for the casino. It holds on the account bala
 ###### Players
 
 Players can gamble by depositing their tezos to the smartcontract. Players bet on the numbers, colors, range ( 1-12, 13-24,25-36, 1-18, 19-36) etc all combinations similar to the live roulette . And if they win ,the pay-off also will be similar to the real casino. Current code allows players to bet only after depositing amount to the smart contract. If the player wins , the winning amount will be added to their account in smart contract.
-* Next version of the code will directly check the balance of players' wallet and debit the betting amount directly from wallet . The winnings also will be directly credited to their wallet. * 
+*Next version of the code will directly check the balance of players' wallet and debit the betting amount directly from wallet . The winnings also will be directly credited to their wallet.* 
 
 ###### Stake Holders
 
-Stake Holder act as underwriters to cover excess loss of the casino if the players winnings exceed teh balance of the smart contract. In return the Stake holders are provided with the staking rewards. Currently the staking rewards are paid out in Tezos. * Next version staking and staking rewards will happen in the casino's own currency *.   
+Stake Holder act as underwriters to cover excess loss of the casino if the players winnings exceed teh balance of the smart contract. In return the Stake holders are provided with the staking rewards. Currently the staking rewards are paid out in Tezos. *Next version staking and staking rewards will happen in the casino's own currency*.   
 
